@@ -1,16 +1,15 @@
 {
-  "name": "average-color"
-  , "version": "0.1.1"
-  , "description": "Detect average image color and append it to source HTML"
-  , "main": "app.js"
-  , "repository": ""
-  , "author": "Dmitry Titov <dmitry@wildev.ru>"
-  , "dependencies": {
-    "cheerio": "^0.18.0"
-    , "color-thief": "^2.2.0"
-    , "fs": "0.0.2"
-    , "fs-readdir-recursive": "^0.1.0"
-    , "http": "0.0.0"
-    , "minimatch": "^2.0.3"
+  "name": "compare-number",
+  "version": "0.1.0",
+  "description": "",
+  "main": "compare.js",
+  "repository": "",
+  "author": "Dmitry Titov <dmitry@wildev.ru>",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "fs": "0.0.2",
+    "fs-readdir-recursive": "^0.1.0",
+    "linebyline": "0.0.7",
+    "minimatch": "^2.0.3"
   }
 }
